@@ -1,0 +1,11 @@
+What is SSH??
+SSH or Secure Shell is a network communication protocol that enables two computers to communicate (c.f http or hypertext transfer protocol, which is the protocol used to transfer hypertext such as web pages) and share data.
+
+When working with a GitHub repository, you'll often need to identify yourself to GitHub using your username and password. An SSH key is an alternate way to identify yourself that doesn't require you to enter you username and password every time.
+
+Types of SSH??
+There are 4 types of SSH 
+DSA 
+RSA
+ECDSA 
+ed25519 
